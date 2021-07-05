@@ -9,13 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.rl</groupId>
-<<<<<<< HEAD
-	<artifactId>demoa</artifactId>    
-	<version>0.0.1-SNAPSHOT</version>
-=======
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>   
->>>>>>> master
+
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
